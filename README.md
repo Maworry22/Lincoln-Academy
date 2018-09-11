@@ -5,7 +5,7 @@
  </head>
 <h1>About Us</h1>
 <body>
-  <p>Lincoln Academy is a tutorial centre specilized in training and teaching students from JSS1-SS3.Founded in 2018</p>
+  <p>Lincoln Academy is a tutorial centre specilized in training and teaching students from JSS1-SS3.Founded in 2013</p>
   <p>For the past five years, we have been on the journey of impacting konwledge in people and making sure our students achieve excellence in the studies</p>
   <p>Why not join us today to enjoy the full benefits we have for you</p>
   
@@ -27,7 +27,7 @@ Below are list of courses we offer in the tutorial
 <hr>
 <h1>Contact Us</h1>
 No  14 Igbalaye street, Abule Egba,Lagos
-0706069990000
+07060690000
 
 </body>
 
