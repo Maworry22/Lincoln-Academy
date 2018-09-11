@@ -1,10 +1,14 @@
 # Lincoln-Academy
 <html>
 <head>
-<title>Linclon Academy</title>
-</head>
+  <title>Linclon Academy</title> 
+ </head>
 <h1>About Us</h1>
-<p>Lincoln Academy is a tutorial centre specilized in training and teaching students from JSS1-SS3.Founded in 2018</p>
+<body>
+  <p>Lincoln Academy is a tutorial centre specilized in training and teaching students from JSS1-SS3.Founded in 2018</p>
+  <p>For the past five years, we have been on the journey of impacting konwledge in people and making sure our students achieve excellence in the studies</p>
+  <p>Why not join us today to enjoy the full benefits we have for you</p>
+  
 <h1> Courses Offer</h1>
 Below are list of courses we offer in the tutorial
 <list>
@@ -21,8 +25,10 @@ Below are list of courses we offer in the tutorial
 
 </ul></list>
 <hr>
+<h1>Contact Us</h1>
+No  14 Igbalaye street, Abule Egba,Lagos
+0706069990000
 
-<body>
 </body>
 
 
