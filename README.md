@@ -1,4 +1,5 @@
-# Lincoln-Academy
+<!Doctype html>
+Lincoln-Academy
 <html>
 <head>
   <title>Linclon Academy</title> 
@@ -12,6 +13,7 @@
 <h1> Courses Offer</h1>
 Below are list of courses we offer in the tutorial
 <list>
+  <div background:color="red",>
 <ul>
 <li>Mathematics</li>
 <li>English</li>
@@ -23,7 +25,7 @@ Below are list of courses we offer in the tutorial
 <li>Economics</li>
 <li>Agricultural Science</li>
 
-</ul></list>
+</ul></div></list>
 <hr>
 <h1>Contact Us</h1>
 No  14 Igbalaye street, Abule Egba,Lagos
