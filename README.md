@@ -26,6 +26,16 @@ Below are list of courses we offer in the tutorial
 <li>Agricultural Science</li>
 
 </ul></div></list>
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Course</th>
+  
+<th>time</th>
+    <th>days</th>
+  </tr>
+
+</table>
 <hr>
 <h1>Contact Us</h1>
 No  14 Igbalaye street, Abule Egba,Lagos
