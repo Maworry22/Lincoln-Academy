@@ -13,7 +13,7 @@ Lincoln-Academy
 <h1> Courses Offer</h1>
 Below are list of courses we offer in the tutorial
 <list>
-  <div background:color="red",>
+  <div color="red",>
 <ul>
 <li>Mathematics</li>
 <li>English</li>
